@@ -3,13 +3,14 @@ This analysis focuses on identifying and understanding the factors driving emplo
 
 Data Source
 
-
+[IBM HR Employee Attrition.xlsx](https://github.com/user-attachments/files/18593205/IBM.HR.Employee.Attrition.xlsx)
 
 ## Overview of the Dashboard  
 This dashboard provides a comprehensive view of employee attrition, covering:  
 1. Key metrics such as attrition rate, average job satisfaction, and overtime percentages.  
 2. Influential factors driving attrition using the Key Influencers visual.  
 3. Attrition breakdowns by business travel, department, and job role for actionable insights.  
+
 
 ## Key Metrics and Their Insights  
 ### 1. Overall Attrition Rate: 16%  
