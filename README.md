@@ -3,7 +3,7 @@ This analysis focuses on identifying and understanding the factors driving emplo
 
 Data Source
 
-[IBM HR Employee Attrition.xlsx](https://github.com/user-attachments/files/18593205/IBM.HR.Employee.Attrition.xlsx)
+[IBM HR Employee Attrition.xlsx](https://github.com/user-attachments/files/18593293/IBM.HR.Employee.Attrition.xlsx)
 
 ## Overview of the Dashboard  
 This dashboard provides a comprehensive view of employee attrition, covering:  
@@ -11,6 +11,7 @@ This dashboard provides a comprehensive view of employee attrition, covering:
 2. Influential factors driving attrition using the Key Influencers visual.  
 3. Attrition breakdowns by business travel, department, and job role for actionable insights.  
 
+![Screenshot (23)](https://github.com/user-attachments/assets/f0bd07af-bf0d-4059-beab-ccbf25ebb954)
 
 ## Key Metrics and Their Insights  
 ### 1. Overall Attrition Rate: 16%  
