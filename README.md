@@ -11,7 +11,8 @@ This dashboard provides a comprehensive view of employee attrition, covering:
 2. Influential factors driving attrition using the Key Influencers visual.  
 3. Attrition breakdowns by business travel, department, and job role for actionable insights.  
 
-![Screenshot (23)](https://github.com/user-attachments/assets/f0bd07af-bf0d-4059-beab-ccbf25ebb954)
+![IBM Attrition Analysis](https://github.com/user-attachments/assets/a89120f9-5f88-4a4b-8326-f5e337b56ed8)
+
 
 ## Key Metrics and Their Insights  
 ### 1. Overall Attrition Rate: 16%  
